@@ -1,0 +1,25 @@
+.one
+{
+    font-size: larger;
+    color:rgb(255, 255, 255);
+    text-decoration: underline;
+    font-weight: bold;
+    font-size:xx-large;
+}
+.two
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:rgb(255, 170, 0);
+}
+.blog-footer
+{
+    text-align: center;
+}
+
+.background
+{
+    background-image: url(./C:\xampp\htdocs\Bootstrap_code_harry\img\1.png);
+    width:200px;
+    height:200px;
+}
